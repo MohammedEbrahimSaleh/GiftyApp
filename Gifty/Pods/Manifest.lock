@@ -1,0 +1,16 @@
+PODS:
+  - CountryPickerView (2.2.0)
+
+DEPENDENCIES:
+  - CountryPickerView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CountryPickerView
+
+SPEC CHECKSUMS:
+  CountryPickerView: 77177af9744802d0a61391508b37e0a08f630871
+
+PODFILE CHECKSUM: 7fb9c39202c79d7b34a53a4fd576ecafe0060954
+
+COCOAPODS: 1.5.3
